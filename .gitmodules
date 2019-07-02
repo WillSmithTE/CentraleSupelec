@@ -1,0 +1,4 @@
+[submodule "Connect4"]
+	path = Connect4
+	url = https://github.com/WillSmithTE/Connect4
+	branch = master
